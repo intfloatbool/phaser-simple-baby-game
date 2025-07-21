@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "play": "ff",
+    "settings": "ff",
+    "exit": "ff"
+  },
+  "greeting": "ff!",
+
+
+  "main_menu": {
+    "title" : "ff",
+    "start_play": "ff"
+  }
+}

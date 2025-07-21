@@ -1,0 +1,67 @@
+{
+  "menu": {
+    "play": "Играть",
+    "settings": "Настройки",
+    "exit": "Выход"
+  },
+  "greeting": "Привет!",
+
+
+  "main_menu": {
+    "title" : "Игра для малышей",
+    "start_play": "Начать играть!"
+  },
+
+  "tap_to_continue": "Нажми, чтобы продолжить!",
+  "continue": "Продолжить!",
+  "choose_another_game" : "Выбрать другую игру!",
+  "all_items_guess": "Угадай!",
+  "games": {
+    "guess_n_learn": {
+        "title": "Учи и угадывай!",
+        "packs": {
+          "farm_cattle": {
+            "title": "Животные на ферме",
+            "animals": {
+              "chicken": "Курица",
+              "cow": "Корова",
+              "pig" : "Свинья",
+              "goose": "Гусь",
+              "horse": "Лошадь",
+              "sheep": "Овечка"
+            }
+          },
+          "vehicles": {
+            "title": "Транспортные средства",
+            "items": {
+              "car": "Машина",
+              "train": "Поезд",
+              "bus": "Автобус",
+              "bicycle": "Велосипед",
+              "motorcycle": "Мотоцикл"
+            }
+          },
+          "sea_animals": {
+            "title": "Морские животные",
+            "items": {
+              "octopus": "Осьминог",
+              "seahorse": "Морской конёк",
+              "fish": "Рыба",
+              "crab": "Краю",
+              "shark": "Акула"
+            }
+          },
+          "insects": {
+            "title": "Насекомые",
+            "items": {
+              "grasshopper": "Кузнечик",
+              "ladybug": "Божья коровка",
+              "bug": "Жук",
+              "butterfly": "Бабочка",
+              "bee": "Пчела"
+            }
+          }
+        }
+    }
+  }
+}
