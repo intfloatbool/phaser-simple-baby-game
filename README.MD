@@ -16,7 +16,7 @@
 
  ## How to play
 * browser - `$ npm run dev`
-* android - download `*.apk` from reliases page.
+* android - download `*.apk` from [reliases page](https://github.com/intfloatbool/phaser-simple-baby-game/releases/tag/android-1-0).
 
  ## Screenshots
 
